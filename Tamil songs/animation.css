@@ -1,0 +1,41 @@
+/* The animation code */
+@keyframes colorChange {
+    0% {
+        color: red;
+    }
+
+    20% {
+        color:orange;
+    }
+
+    40% {
+        color: yellow;
+    }
+
+    80% {
+        color:green;
+    }
+    100%{
+        color: blue;
+    }
+}
+@keyframes colorchange1 {
+    0% {
+        color: red;
+    }
+
+    20% {
+        color:orange;
+    }
+
+    40% {
+        color: yellow;
+    }
+
+    80% {
+        color:green;
+    }
+    100%{
+        color: blue;
+    }
+}
